@@ -1,0 +1,40 @@
+<html>
+<head>
+    <title>Hobbies</title>
+</head>
+<body style="background-color: antiquewhite;">
+
+    <h2 style="text-align: center;"><b>Welcome to My Web Page</b></h2>
+    <br>
+
+
+    <hr>
+
+    <p><b>My Hobbies:</b></p>
+    <ul>
+        <li>Reading</li>
+        <li>Playing </li>
+        <li><mark style="background-color: brown;">Listening to Music</mark></li>
+    </ul>
+
+    <br>
+
+    <p><b>Daily Routine:</b></p>
+    <ol>
+        <li>Wake Up</li>
+        <li>Study</li>
+        <li>Exercise</li>
+        <li>Eating</li>
+        <li>Sleep</li>
+    </ol>
+
+    <hr>
+
+    <img src="https://www.casita.com/images/files/public/05072023011757PM-shutterstock_2136659695.jpg" width="30%">
+
+    <br><br>
+
+    <p>Thank You!</p>
+
+</body>
+</html>
